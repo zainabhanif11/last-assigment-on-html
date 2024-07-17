@@ -1,0 +1,63 @@
+.text{
+    height: 60px;
+   width: 100%;
+   justify-content: center;
+   display: flex;
+   align-items: center;
+   border-style: double;
+   }
+   
+.text2{
+    margin-top: 50px;
+}
+
+/* .imagetext{
+margin: 0px;
+position: absolute;
+bottom: 30px; 
+padding: 10px 0;
+
+} */
+
+.popular{
+    border:1px solid black;
+    width:300px;
+    height:1200px;
+
+}
+
+.color{
+    background-color: antiquewhite;
+
+}
+#id{
+    height: 100;
+    width:100;
+    border: 2px;
+    text-align: center;
+}
+  
+.line{
+    background-color: rgba(255, 235, 205, 0.404);
+    height: 100px;
+    margin: 30px;
+    padding-left: 20px;
+}
+.picture{
+    padding: 10px;
+    text-align: center;
+height: 200px;
+display: flex;
+
+}
+
+.headline{
+    display: flex;
+}
+
+
+
+
+
+
+    
